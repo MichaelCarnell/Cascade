@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/cascade-logo.png" width="300">
+</p>
+
 # Cascade
 
 Cascade is a biological image analysis and visualisation platform. This application is currently in development for wider distribution.
