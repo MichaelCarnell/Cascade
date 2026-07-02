@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/cascade-logo.png" width="300">
+  <img src="assets/Cascade-Logo-Light.png" width="300">
 </p>
 
 # Cascade
